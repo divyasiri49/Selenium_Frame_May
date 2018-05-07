@@ -1,0 +1,47 @@
+2018-05-04 13:16:56 INFO  Base_Class:53 - Execting the Testcase is GB_07Order Set is 1.0
+2018-05-04 13:17:00 INFO  Base_Class:63 - Failed as actual result is qtpworld2008 gExpected result is qtpworld2008
+2018-05-04 13:19:52 INFO  Base_Class:28 - Execting the Testcase is GB_01 Order Set is 2.0
+2018-05-04 13:19:54 INFO  Base_Class:35 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 13:20:07 INFO  Base_Class:53 - Execting the Testcase is GB_07Order Set is 1.0
+2018-05-04 13:20:09 INFO  Base_Class:61 - Passed as actual result is qtpworld2008 gExpected result is qtpworld2008
+2018-05-04 14:03:28 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 1.0
+2018-05-04 14:03:30 INFO  Base_Class:39 - Failed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step 
+2018-05-04 14:03:43 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 2.0
+2018-05-04 14:03:45 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:03:57 INFO  Base_Class:29 - Execting the Testcase is GB_02 Order Set is 1.0
+2018-05-04 14:03:59 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:04:12 INFO  Base_Class:29 - Execting the Testcase is GB_03 Order Set is 1.0
+2018-05-04 14:04:14 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:04:26 INFO  Base_Class:29 - Execting the Testcase is GB_04 Order Set is 1.0
+2018-05-04 14:04:27 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:04:39 INFO  Base_Class:29 - Execting the Testcase is GB_05 Order Set is 1.0
+2018-05-04 14:04:40 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:04:54 INFO  Base_Class:29 - Execting the Testcase is GB_06 Order Set is 1.0
+2018-05-04 14:04:57 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:05:09 INFO  Base_Class:58 - Execting the Testcase is GB_07Order Set is 1.0
+2018-05-04 14:05:13 INFO  Base_Class:66 - Passed as actual result is qtpworld2008 gExpected result is qtpworld2008
+2018-05-04 14:27:08 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 1.0
+2018-05-04 14:27:10 INFO  Base_Class:39 - Failed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step 
+2018-05-04 14:27:21 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 2.0
+2018-05-04 14:27:23 INFO  Base_Class:36 - Passed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step because :
+2018-05-04 14:27:34 INFO  Base_Class:60 - Execting the Testcase is GB_07Order Set is 1.0
+2018-05-04 14:27:37 INFO  Base_Class:68 - Passed as actual result is qtpworld2008 gExpected result is qtpworld2008
+2018-05-04 16:53:26 INFO  Base_Class:56 - Executing the testcase GB_08 order set is 1.0
+2018-05-04 16:54:33 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 1.0
+2018-05-04 16:54:35 INFO  Base_Class:39 - Failed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step 
+2018-05-04 16:54:48 INFO  Base_Class:56 - Executing the testcase GB_08 order set is 1.0
+2018-05-04 17:08:43 INFO  Base_Class:29 - Execting the Testcase is GB_01 Order Set is 1.0
+2018-05-04 17:08:45 INFO  Base_Class:39 - Failed as actual result is Sorry we were unable to complete this step because : Expected result is Sorry we were unable to complete this step 
+2018-05-04 17:08:53 INFO  Base_Class:56 - Executing the testcase GB_08 order set is 1.0
+2018-05-04 18:29:49 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:31:45 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:33:43 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:36:38 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:38:28 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:40:39 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:49:00 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 18:59:14 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 19:02:00 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 19:02:17 INFO  Base_Class:51 - Failed as Actual result is Can Love Happen Twice? (English) (Paperback) Expected Result Can Love Happen Twice?
+2018-05-04 19:03:01 INFO  Base_Class:29 - Executing the testcase GB_12 order set is 1.0
+2018-05-04 19:03:18 INFO  Base_Class:46 - Passed as Actual result is Can Love Happen Twice? (English) (Paperback) Expected Result Can Love Happen Twice?
